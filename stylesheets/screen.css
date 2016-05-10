@@ -474,7 +474,7 @@ tr {
 th {
   display: table-cell;
   padding: 2px 10px;
-  border: solid ##00001a;
+  border: solid #00001a;
   border-width: 2px 2px 2px 2px;
   color: #cd596b;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
